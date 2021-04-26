@@ -1,0 +1,1 @@
+rails s puma -e production -b 0.0.0.0 -p 4096
